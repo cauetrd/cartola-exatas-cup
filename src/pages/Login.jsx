@@ -52,11 +52,11 @@ export default function Login({ onLogin }) {
         <div className="login-logo-container">
           <img
             src="/logo-exatas.png"
-            alt="Fantasy Exatas Cup"
+            alt="Cartola Exatas Cup"
             className="login-logo-image"
           />
         </div>
-        <h1 className="login-title">Fantasy Exatas Cup</h1>
+        <h1 className="login-title">Cartola Exatas Cup</h1>
         <p className="login-subtitle">
           Monte seu time e dispute o campeonato do futsal!
         </p>
